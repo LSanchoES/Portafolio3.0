@@ -1,0 +1,52 @@
+.tecno__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: $secondary;
+    color: $primary;
+    font-size: 1rem;
+    text-align: center;
+    min-height: 100vh;
+    h1{
+        color: $primary-low;
+        font-size: 3rem;
+        justify-self: center;
+        align-self: center;
+        padding: 1rem;
+    }
+
+}
+.tecno__ico{
+
+    font-size: 7rem;
+    color: $primary;  
+    margin: 1rem;
+    padding: 1rem;
+    filter: drop-shadow(0px 0px 0px $tertiary);
+    transition: all 500ms;
+    &:hover{
+        filter: drop-shadow(0px 0px 4px $tertiary);
+
+    }
+
+}
+.tecno__row{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+
+}
+.tecno__span{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+    align-items: center;
+    margin: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    
+
+}
