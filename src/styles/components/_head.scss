@@ -46,3 +46,42 @@
 
 }
 
+@media(max-width:500px){
+    .head__title{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: $primary;
+        text-shadow: 2px 2px 4px $primary;
+        filter: blur(10);
+        z-index: 2;
+        h1{
+            padding: 1rem;
+            font-size: 2rem;
+            font-style: italic;
+    
+        }
+    
+       
+    }
+    .head__subtitle{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        text-align: center;
+        color: $primary-low;
+        text-shadow: 2px 2px 10px $secondary;
+        h2{
+            padding: 1rem;
+            font-size: 1rem;
+            font-style: italic;
+    
+        }
+    
+    }
+}
