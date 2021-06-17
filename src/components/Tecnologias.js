@@ -17,6 +17,7 @@ export const Tecnologias = () => {
                 <span className="tecno__span" ><i className="tecno__ico fab fa-wordpress"></i>WordPress</span>
                 <span className="tecno__span" ><i className="tecno__ico fas fa-cog"></i>RESTful APIs</span>
                 <span className="tecno__span" ><i className="tecno__ico fab fa-linux"></i>Linux</span>
+                <span className="tecno__span" ><i className="tecno__ico fas fa-shield-alt"></i>Ciberseguridad</span>
             </div>
         </div>
         </>

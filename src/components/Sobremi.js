@@ -69,7 +69,7 @@ export const Sobremi = () => {
 
 		
 					<p>
-						Tengo gran presencia en internet bajo el psudónimo de "Vristok" el cual es
+						Tengo gran presencia en internet bajo el pseudónimo de "Vristok" el cual es
 						mi nombre artístico como creador de contenido digital, aunque tengo
 						experiencia con la edición de video, mi pasión por los directos me ha
 						hecho crecer mucho en plataformas como Twitch.tv , Nimo.tv y algunas otras

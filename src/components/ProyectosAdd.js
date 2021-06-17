@@ -58,12 +58,6 @@ const slidesInfo = [
         url: "https://lsanchoes.github.io/Lista-ToDos/"
     },
     {
-        src: "https://res.cloudinary.com/lsancho-es/image/upload/v1620491555/bzaovtte2lm3f7pe71b9.png",
-        alt: "GenshinBuilds",
-        desc: "Builds para el juego Genshin Impact",
-        url: "https://genshinbuilds.es/"
-    },
-    {
         src: "https://res.cloudinary.com/lsancho-es/image/upload/v1620491555/tx0dlllazh0xsi7pes12.png",
         alt: "Heroes App",
         desc: "Busca cualquier heroe de Marvel y DC",
@@ -87,25 +81,31 @@ const slidesInfo = [
         desc: "Busca cualquier gif en esta app",
         url: "https://lsanchoes.github.io/GifExpertApp/"
     },
-
+    
     {
         src: "https://res.cloudinary.com/lsancho-es/image/upload/v1620491559/mxskvxke1jb7uulxxfdp.png",
         alt: "Beer App",
         desc: "Tomate una cervecita aleatoria y de paso mira como se fabrica",
         url: "https://lsanchoes.github.io/beer-app/",
     },
-
+    
     {
         src: "https://res.cloudinary.com/lsancho-es/image/upload/v1620491556/cbwly7woad78d0efhf97.png",
         alt: "Breaking bad App",
         desc: "Busca cualquier personaje de esta fantástica serie",
         url: "https://lsanchoes.github.io/breaking-bad-app/",
     },
+    {
+        src: "https://res.cloudinary.com/lsancho-es/image/upload/v1623934687/fbcmjt9wiiwu90xyfteg.png",
+        alt: "GenshinBuilds",
+        desc: "Builds para el juego Genshin Impact",
+        url: "https://genshinbuilds.es/"
+    },
     // {
-    //     src: "",
-    //     alt: "",
-    //     desc: "",
-    //     url: ""
+        //     src: "",
+        //     alt: "",
+        //     desc: "",
+        //     url: ""
     // },
 ]
 

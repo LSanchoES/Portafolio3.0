@@ -8,8 +8,8 @@ export const Audiovisual = () => {
 				<div className="audiovisual__div">
 					<h2>Música</h2>
 					<p>
-						Me encanta la música y la produción de audio, echa un vistazo a mi obra
-						electrónica en Youtube, SoundCloud o Spotify
+						Descubre mi obra
+						electrónica en Soundcloud, Spotify o Youtube
 					</p>
 					<div>
 						<a href="https://soundcloud.com/vristok" target="_blank" rel="noreferrer">

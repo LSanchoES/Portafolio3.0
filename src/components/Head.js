@@ -13,7 +13,7 @@ export const Head = () => {
 				</div>
 
 				<div className="head__subtitle">
-					<h2>Web programming & Digital content creator</h2>
+					<h2>Front-end Developer & Digital content creator</h2>
 				</div>
 			</div>
 
