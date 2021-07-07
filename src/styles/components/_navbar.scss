@@ -1,0 +1,39 @@
+.navbar__main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgba($secondary-low , 0.8);
+    backdrop-filter: blur(5px);
+    box-shadow: 0px 1px 1px $primary;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    a{
+        text-decoration: none;
+        color: $primary;
+        opacity: 1;
+        margin-left: 4rem;
+
+
+    }
+}
+.navbar-toggler{
+    color: $primary !important;
+    border-radius: 12px !important;
+    background-color: $tertiary !important;
+    margin-right: auto;
+}
+
+.navbar__element{
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: all 400ms;
+    border-radius: 12px;
+    color: $tertiary;
+    padding: 1rem;
+ 
+    &:hover{
+        text-shadow: 0px 0px 20px $tertiary;
+    }
+}
